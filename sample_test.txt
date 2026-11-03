@@ -1,0 +1,27 @@
+CODEALPHA CGPA CALCULATOR - SAMPLE TEST
+
+Input:
+Number of courses: 3
+
+Course 1:
+Grade points: 3.5
+Credit hours: 3
+
+Course 2:
+Grade points: 3.0
+Credit hours: 3
+
+Course 3:
+Grade points: 4.0
+Credit hours: 2
+
+Previous completed credit hours: 20
+Previous CGPA: 3.2
+
+Expected calculation:
+Total semester credits = 3 + 3 + 2 = 8
+Total semester grade points = (3.5 x 3) + (3.0 x 3) + (4.0 x 2) = 27.5
+Semester GPA = 27.5 / 8 = 3.4375 = 3.44
+Overall CGPA = ((3.2 x 20) + 27.5) / (20 + 8)
+             = 91.5 / 28
+             = 3.267857... = 3.27
